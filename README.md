@@ -1,6 +1,6 @@
 # postix
 
-postix is the ticket used for ticket scanning and cash handling at Chaos Communication Congress and Chaos Communication Camp.
+postix is the system used for ticket scanning and cash handling at Chaos Communication Congress and Chaos Communication Camp.
 
 ## 451 Unavailable for Legal Reasons
 
